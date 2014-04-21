@@ -1,6 +1,6 @@
 /**
  * Showdown Icon Extension, Glyphicon and FontAwesome support for showdown
- * http://github.com/showdown-glyphicon
+ * http://github.com/dbtek/showdown-glyphicon
  * 2014, Ismail Demirbilek
  * License: MIT
  */
