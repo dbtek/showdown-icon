@@ -1,0 +1,28 @@
+{
+  "name": "showdown-icon",
+  "main": "showdown-icon.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbtek/showdown-icon",
+  "authors": [
+    "İsmail Demirbilek <ce.demirbilek@gmail.com>"
+  ],
+  "description": "Showdown Icon Extension, Glyphicon and FontAwesome support in markdown",
+  "keywords": [
+    "markdown",
+    "icon",
+    "glyphicon",
+    "fontawesome",
+    "showdown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "showdown": "~0.3.1"
+  }
+}
