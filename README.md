@@ -9,17 +9,16 @@ and ```<i class="fa fa-home"></i>``` with ```@fa-home```.
 
 ## Install
 With NPM:  
-```npm install --save showdown-icon```
-
-With Bower:  
-```bower install showdown-icon```
-
-## Usage
-```html
-<script src="showdown.js" />
-<script src="showdown-icon/showdown-icon.js" />
+```
+ $ npm install --save showdown-icon
 ```
 
+With Bower:  
+```
+ $ bower install showdown-icon
+```
+
+## Usage
 ```js
 var converter = new Showdown.converter({ extensions: ['icon'] });
 alert(converter.makeHtml('@glyphicon-envelope'));
