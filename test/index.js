@@ -14,4 +14,3 @@ test('generate icons', function (t) {
   t.equal(converter.makeHtml('@glyphicon-envelope'), '<p><span class="glyphicon glyphicon-envelope"></span></p>', 'Generates glyphicon')
   t.equal(converter.makeHtml('@fa-envelope'), '<p><i class="fa fa-envelope"></i></p>', 'Generates FontAwesome icon')
 })
-

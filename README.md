@@ -3,7 +3,7 @@ Showdown Icon Extension
 
 Glyphicon and font-awesome support in Markdown for Showdown.js
 
-Generates ```<span class="glyphicon glyphicon-home"></span>``` with ```@glyphicon-home```,   
+Generates ```<span class="glyphicon glyphicon-home"></span>``` with ```@glyphicon-home```,
 and ```<i class="fa fa-home"></i>``` with ```@fa-home```.
 
 
