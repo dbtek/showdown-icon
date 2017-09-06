@@ -1,4 +1,4 @@
-Showdown Icon Extension
+Showdown Icon Extension [![Build Status](https://travis-ci.org/dbtek/showdown-icon.svg?branch=master)](https://travis-ci.org/dbtek/showdown-icon)
 =======================
 
 Glyphicon and font-awesome support in Markdown for Showdown.js
