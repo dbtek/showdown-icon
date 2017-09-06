@@ -8,6 +8,10 @@ and ```<i class="fa fa-home"></i>``` with ```@fa-home```.
 
 
 ## Install
+With NPM:  
+```npm install --save showdown-icon```
+
+With Bower:  
 ```bower install showdown-icon```
 
 ## Usage
