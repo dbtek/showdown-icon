@@ -27,5 +27,7 @@
     "showdown": "^1.7.3"
   },
   "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
   }
 }
