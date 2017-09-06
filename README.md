@@ -21,6 +21,6 @@ With Bower:
 ## Usage
 ```js
 var converter = new Showdown.converter({ extensions: ['icon'] });
-alert(converter.makeHtml('@glyphicon-envelope'));
-alert(converter.makeHtml('@fa-home'));
+converter.makeHtml('@glyphicon-envelope');
+converter.makeHtml('@fa-home');
 ```
